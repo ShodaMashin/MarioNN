@@ -7,8 +7,11 @@ Please install the Pre-requisites in the prereq folder before attempting to run 
 
 To run Moron_Mario:
   Open EmuHawk.exe in the BizHawk-1.11.7 folder
+  
   Select File > Open ROM > Super Mario Bros. (Japan, USA).nes
+  
   Select Tools > Lua Console
+  
   Select Script > Open Script... > Moron_Mario.lua
   
 You can select any of the pretrained networks by typing in the name of any of the .pool files in the Lua folder and hitting "load" in the fitness window, or feel free to train your own!
