@@ -5,7 +5,7 @@ This will only work on windows due to incompatibilities with the Mono32 framewor
 
 Please install the Pre-requisites in the prereq folder before attempting to run the emulator!
 
-To run Moron_Mario:
+### To run Moron_Mario:
   Open EmuHawk.exe in the BizHawk-1.11.7 folder
   
   Select File > Open ROM > Super Mario Bros. (Japan, USA).nes
